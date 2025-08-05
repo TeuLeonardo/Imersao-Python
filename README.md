@@ -1,4 +1,4 @@
-# Imersao-Python 🐍 Aprendendo Python com o pessoal do projeto Chico no Clima
+# Imersão-Python 🐍 Aprendendo Python com o pessoal do projeto Chico no Clima
 
 Este repositório contém os códigos desenvolvidos durante uma oficina de introdução à programação com Python, oferecida pelo pessoal incrível do **Projeto Chico no Clima** 🌿.
 
